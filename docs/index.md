@@ -17,7 +17,7 @@ hide:
 
     - Devroom date: Saturday 30 January 2027
     - **Call for Participation open until <a href="https://time.is/countdown/2359_29_Nov_2026_in_CET?Submission_deadline_for_talk_proposals_at_the_HPC,_Big_Data,_and_Data_Science_devroom_at_FOSDEM_2027" target="_blank">Sunday 29 November 2026 23:59 CET</a>**
-    - Submit your talk propsals to the `HPC, Big Data, and Data Science` track <a href="https://fosdem.org/submit" target="_blank">here</a>
+    - Submit your talk proposals to the `HPC, Big Data, and Data Science` track <a href="https://fosdem.org/submit" target="_blank">here</a>
 
     *We strongly recommend to read the information below before submitting a talk proposal!*
 
@@ -49,11 +49,11 @@ for some time. In the HPC community, it should be no surprise that, according to
 On the Big Data side, the Apache Big Data ecosystem (e.g. Apache Hadoop/Flink/Spark/Kafka) received a
 tremendous amount of Open Source contributions from a wide range of organizations coming together
 under the Apache Software Foundation.
-The data science community also thrives on open source, with the Python ecosystem around pandas/Tensorflow/PyTorch
+The data science community also thrives on open source, with the Python ecosystem around pandas/TensorFlow/PyTorch
 and the R ecosystem being the two pillars.
 
 Our goal is to bring the communities together, share expertise, learn how we can benefit from each
-others work, and foster further joint research and collaboration. We welcome talks about Free and Open Source
+other's work, and foster further joint research and collaboration. We welcome talks about Free and Open Source
 solutions to the challenges presented by large scale computing, data management, and data analysis.
 
 
@@ -109,7 +109,7 @@ When submitting your talk in the FOSDEM submission system, make sure to select `
 
 Submissions must include:
 
-- Talk title + abstract + description (plain text or MarkDown, couple of paragraphs)
+- Talk title + abstract + description (plain text or Markdown, couple of paragraphs)
 - Expected prior knowledge / intended audience
 - Speaker(s) bio
 - Links to code / slides / material for the talk *(optional)*
